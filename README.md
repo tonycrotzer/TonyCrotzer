@@ -7,7 +7,7 @@ Strategic Program and Project Management leader with 15+ years of experience dri
 ### Core Expertise
 - Program & Project Management (Agile, Waterfall, Hybrid)
 - Quality Assurance & UAT Leadership
-- Enterprise Transformation & Change Management,
+- Enterprise Transformation & Change Management
 - Business Operations & Process Improvement
 - Risk, Issue & Governance Management
 - SDLC & Software Delivery Lifecycle Oversight
