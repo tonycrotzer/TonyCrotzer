@@ -41,4 +41,4 @@ Strategic Program and Project Management leader with 15+ years of experience dri
 
 ## Thought Leadership
 
-- Project Management Insights: https://github.com/yourusername/Project-Management-Insights
+- Project Management Insights: https://github.com/tonycrotzer/Project-Management-Insights
