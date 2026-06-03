@@ -11,6 +11,11 @@ Strategic Program and Project Management leader with 15+ years of experience dri
 - Business Operations & Process Improvement
 - Risk, Issue & Governance Management
 - SDLC & Software Delivery Lifecycle Oversight
+- Capacity & Change Management
+- Budget, Risk & Vendor Management
+- Requirements Analysis
+- Process Design
+- Stakeholder Collaboration
   
 ## Professional Highlights
 - Led large-scale enterprise initiatives managing global teams of 600+ resources
@@ -21,21 +26,15 @@ Strategic Program and Project Management leader with 15+ years of experience dri
 
 ## Tools & Technologies
 - MS Project
+- MS Visio
+- MS Excel
+- MS Outlook
 - JIRA
 - Confluence
-- Azure DevOps
 - HP ALM
-- Rally
-- ServiceNow
 - SharePoint
 - SQL Server
 - Tableau
-- Selenium
-- Postman
-- LoadRunner
-- AWS
-- Azure
-- VMware
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/tna88/
