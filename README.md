@@ -39,3 +39,7 @@ Strategic Program and Project Management leader with 15+ years of experience dri
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/tna88/
+
+## Thought Leadership
+
+- Project Management Insights: https://github.com/yourusername/Project-Management-Insights
